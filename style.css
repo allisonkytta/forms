@@ -1,0 +1,11 @@
+body {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  input {
+    margin: 5px;
+  }
+  
+
